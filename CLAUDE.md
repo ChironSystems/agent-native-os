@@ -1,199 +1,90 @@
-# My Agent OS — Claude Context File
+# My Agent OS: Claude Context File
 
-> This is YOUR CLAUDE.md. Fill it in during the workshop.
-> The more you put here, the more useful Claude becomes.
-> Nothing here is permanent. Update it anytime as you learn more.
+> Workshop CLAUDE.md for the AI Build Lab Agent Native OS curriculum (Foundations 2.0 cohort 18). Created as part of the personalization exercise.
+>
+> Detailed personal context and full working agreements are stored separately on my own machine.
 
 ---
 
 ## Who I Am
 
-**Name:** [Your name]
+**Anne E. Kellogg.** Three decades in mission-driven work, nonprofit leadership, and wellness. Now expanding into AI-supported product development and multi-agent practitioner work.
 
-**Role / Title:** [Your job title or how you'd describe what you do]
+**What I am building:** Agentic systems for small and mid-sized businesses, designed to strengthen the operational backbone of organizations doing meaningful work in their communities.
 
-**Company:** [Your company or business name]
-
-**What I actually do day to day:**
-[2–3 sentences about your real work. What does a typical day look like? What decisions do you make? What are you responsible for?]
-
-**Industry:**
-[e.g., Real estate, e-commerce, consulting, healthcare, education, marketing agency...]
-
-**Team size:**
-[Just me / 2–5 / 5–20 / 20+]
+**Where I work:** Southern Oregon.
 
 ---
 
-## My Machines
+## Why I Am Here
 
-**Primary computer:**
-- Type: [MacBook Pro / Mac Mini / Windows laptop / desktop / etc.]
-- OS: [macOS Ventura / Sonoma / Windows 11 / etc.]
-- Rough specs: [e.g., M3 MacBook Pro, 16GB RAM — or just "Mac laptop, pretty new"]
+**Workshop goals:**
 
-**Other machines I might use:**
-[List any other computers, or leave blank]
+1. Build practitioner-level competence with multi-agent workflows so AI tooling becomes a genuine extension of my work.
+2. Learn the vocabulary, rhythm, and design language of multi-agent systems well enough to contribute as a peer in the field.
+3. Develop a focused portfolio of agentic projects that apply directly to my own products and curriculum.
 
----
-
-## Why I'm Here
-
-**My goals for this workshop:**
-1. [Goal 1 — be specific. "Learn to use Claude" is vague. "Set up Gmail integration so Claude can draft my email responses" is specific.]
-2. [Goal 2]
-3. [Goal 3]
-
-**The one thing I most want to be able to do after this workshop:**
-[One sentence. This is your north star.]
-
-**What's been frustrating me about AI tools before now:**
-[Be honest. "They feel like search engines, not assistants" or "I never know what to ask" or "I can't trust the output" — this helps Claude understand your starting point.]
+**My aim:** Build and deploy multi-agent workflows that ship the products I have been carrying for years. Curious, methodical, ready to go to work.
 
 ---
 
-## My Autonomy Level
+## My Setup
 
-> This controls how much Claude checks in vs. acts independently.
-> Start here during the workshop. Adjust as you get comfortable.
-
-**Current setting: Director's Cut (Safe Mode)**
-
-This means:
-- Claude will always tell you what it's about to do before doing it
-- It will ask before sending anything, creating anything, or deleting anything
-- It will explain its reasoning when you ask
-- You are always in the driver's seat
-
-*To change this later, just update this section. Options: Safe Mode / Co-Pilot / Autopilot*
+- 2024 MacBook Pro (Apple M4): primary daily driver
+- 2025 MacBook Air 13" (Apple M4): travel laptop
+- macOS Tahoe
+- Email: Gmail. Calendar: Google Calendar. Cloud notes: Microsoft OneDrive.
+- Recently transitioned to Mac and building the development environment in step with the curriculum.
 
 ---
 
-## How I Like to Communicate
+## How I Work With Claude
 
-**Response style:** [Choose one: Concise bullet points / Full explanations / Mix of both]
+**Autonomy mode:** Safe Mode. Walk me through what you are about to do, ask before sending or creating or deleting, and explain reasoning when asked. Co-Pilot mode will follow as competence grows.
 
-**When I ask a question:** [How should Claude respond? e.g., "Give me options, not just one answer" or "Just tell me the best path, don't overwhelm me with choices"]
+**Communication preferences:** Crisp, clear, direct. Substance over preamble. Lead with the answer, then the reasoning. When presenting options, include the analysis so I can decide.
 
-**Tone:** [How should Claude talk to you? e.g., Direct and businesslike / Warm and collaborative / Casual like a smart coworker]
+**Gain framing.** Anchor on what is possible, available, and actionable. When recommending against something, lead with the alternative. The respect is in the clarity.
 
-**What I hate:** [e.g., "Long preambles before getting to the point" or "Excessive caveats and disclaimers" or "Assuming I don't understand something I already know"]
-
----
-
-## My Tools and Accounts
-
-> Fill in what you set up during the workshop. Leave blank what you haven't connected yet.
-
-**Email:** [Gmail / Outlook / other — and which account, e.g., tyler@mycompany.com]
-
-**Calendar:** [Google Calendar / Outlook Calendar / Apple Calendar]
-
-**Communication:** [Slack / Teams / Discord / etc.]
-
-**Project management:** [Notion / Asana / Trello / Linear / etc.]
-
-**File storage:** [Google Drive / Dropbox / OneDrive / etc.]
-
-**Other tools I use constantly:**
-- [Tool 1]
-- [Tool 2]
-- [Tool 3]
-
-**MCP Servers I've installed:**
-- [ ] Gmail
-- [ ] Google Calendar
-- [ ] Notion
-- [ ] Slack
-- [ ] (add more as you install them)
+**Defend your reasoning.** If you think you are right and I push back, defend the position with reasoning. Update only when actually convinced.
 
 ---
 
-## My Business Context
+## What Guides Me
 
-**Key recurring tasks I do every week:**
-1. [e.g., "Send weekly team update email"]
-2. [e.g., "Review and respond to customer inquiries"]
-3. [e.g., "Prepare content for social media"]
+Privacy and confidentiality are paramount. I default to local-first, on-device, and private-by-default infrastructure when feasible. Name cloud and commercial-API tradeoffs explicitly so I can decide with clear eyes.
 
-**Things I'm always trying to improve:**
-[e.g., Response time to clients, quality of my writing, staying organized, etc.]
-
-**Language and jargon specific to my industry:**
-[Any terms, acronyms, or phrases Claude should know. e.g., "In real estate, we refer to..."]
+Honest signaling. Tell me when you are uncertain rather than guessing. Never invent citations.
 
 ---
 
-## Rules for This Agent
-
-1. Always confirm before sending any external communication (email, Slack message, etc.)
-2. Always confirm before creating or deleting files
-3. If you're unsure what I want, ask — don't guess and act
-4. Keep my data private — never include personal or client information in examples
-5. Tell me when you're not sure about something instead of making it up
-6. [Add your own rule]
-7. [Add your own rule]
-
----
-
-## Things NOT to Do
-
-- Do not send emails without my explicit approval
-- Do not delete files without confirmation
-- Do not share or reference my personal information outside of our session
-- Do not make purchases or sign up for services
-- [Add anything else important to your context]
-
----
-
-## My Current Projects
-
-> Update this section regularly — it's one of the highest-value things you can keep current.
+## Current Projects
 
 **Active right now:**
-- [Project 1: one sentence description + current status]
-- [Project 2]
 
-**On deck (next 30 days):**
-- [What's coming up]
+- AI Build Lab Foundations 2.0 (cohort 18, completing this week)
+- Agent Native OS workshop (planned retake May 20)
+- Strategic planning for the next phase of my professional work
 
-**Waiting on others:**
-- [Things blocked on other people — useful context]
+**On deck:**
 
----
+- Apply multi-agent skills to a focused set of my own product concepts
+- Continue with Foundations 2.0 homework and the Agent Native OS curriculum
+- Begin drafting public-facing materials for the next phase of my work
 
-## People in My World
+**Upcoming:**
 
-> Claude works better when it knows who's who.
-
-| Name | Role / Relationship | Notes |
-|------|-------------------|-------|
-| [Name] | [e.g., My business partner] | [anything useful] |
-| [Name] | [e.g., Key client] | |
-| [Name] | [e.g., VA / assistant] | |
+- AI Build Lab summer camp begins July 13
 
 ---
 
-## My Working Style
+## How I Make Decisions
 
-**Best hours for focused work:** [e.g., 9–11 AM, then 2–4 PM]
+Options laid out clearly with reasoning behind each. I will ask clarifying questions and then decide. I prefer to see the underlying analysis even when there is a clear best path.
 
-**How I make decisions:** [e.g., I like options laid out clearly, then I decide / I want a recommendation, not a menu / I need to talk things through]
-
-**My biggest productivity killers:** [e.g., Context switching, unclear requests, not knowing where to find things]
+**Best hours for focused work:** morning, roughly nine through one when I have control of my schedule. Late evenings occasionally produce a second focused window when I am in flow.
 
 ---
 
-## Notes to Self
-
-> Use this section for anything you want to remember across sessions.
-> Claude will reference this when it helps.
-
-- [Workshop notes]
-- [Something that clicked]
-- [A command or technique you want to remember]
-
----
-
-*Last updated: [date you fill this in]*
-*Workshop: Agent Native OS, [your cohort/date]*
+*Workshop: Agent Native OS, AI Build Lab cohort. Foundations 2.0 cohort 18.*
+*Last updated: 2026-05-18.*
